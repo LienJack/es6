@@ -21,6 +21,6 @@ module.exports =  {
   devServer: {
     contentBase: path.join(__dirname, './dist'), // 更目录
     open: true,
-    port: 9000
+    port: 9001
   }
 }
